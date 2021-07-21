@@ -1,0 +1,14 @@
+name: NovaCityAnimals
+main: io.github.sudain.NovaCityAnimals
+api-version: 1.16
+version: 1.0
+author: Tryferos
+commands:
+  novacityanimals:
+    usage: /<command> <reload>
+    aliases: [nca]
+
+permissions:
+  novacity.novacityanimals.admin:
+    default: op
+
