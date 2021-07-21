@@ -1,0 +1,16 @@
+Messages:
+  reload: "&cSuccessfully reloaded the config file!"
+
+Animals:
+  #Get mob types here: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/entity/EntityType.html
+  types:
+    - "COW"
+    - "PIG"
+    - "SHEEP"
+    - "CHICKEN"
+    - "HORSE"
+  #Get the biome types here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/block/Biome.html
+  biomes:
+    - "BIRCH_FOREST"
+    - "DARK_FOREST"
+    - "FOREST"
